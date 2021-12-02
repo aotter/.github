@@ -1,5 +1,7 @@
 {
   "name": "Aotter Organization Workflow",
   "description": "Aotter Organization CI workflow template.",
-  "iconName": "aotter"
+  "iconName": "aotter",
+  "categories": ["JavaScript", "vue"],
+  "filePatterns": []
 }
