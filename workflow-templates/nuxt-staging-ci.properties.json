@@ -1,0 +1,12 @@
+{
+  "name": "Aotter Organization Workflow",
+  "description": "Aotter Organization CI workflow template.",
+  "iconName": "aotter",
+  "categories": [
+      "vue"
+  ],
+  "filePatterns": [
+      "package.json$",
+      "^Dockerfile"
+  ]
+}
